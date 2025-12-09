@@ -47,14 +47,7 @@ venv\Scripts\activate  # Windows
 
 ### 3. Install Dependencies
 
-```bash
-pip install ultralytics
-pip install opencv-python
-pip install roboflow
-pip install torch torchvision
-```
-
-atau gunakan requirements.txt (jika ada):
+Gunakan requirements.txt:
 
 ```bash
 pip install -r requirements.txt
